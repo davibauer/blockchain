@@ -1,0 +1,6 @@
+.secret
+node_modules
+bin
+obj
+build
+package-lock.json
